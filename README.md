@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Hey there, I'm Bala Venkatesh. I'm a data scientist. Check out my work](https://github.com/balavenkatesh3322/balavenkatesh3322/raw/master/balavenkatesh.gif)
 
-Hi, I'm Bala Venkatesh 👨‍💻 I am working at AIBOTS SDN BHD as Data scientist. I have over 4+ years, data scientist and researcher with 2+ years of experience of data science technology and research experience in wide functions including predictive modeling, data preprocessing, feature engineering, machine learning and deep learning. Improving product and service for our customers by using advanced analytics and standing up big data analytical tools. 
+Hi, I'm Bala Venkatesh 👨‍💻 I am working at AIBOTS SDN BHD as Data scientist. I have over 4+ years, data scientist and researcher with 2+ years of experience of data science technology and research experience in wide functions including predictive modeling, data preprocessing, feature engineering, machine learning and deep learning. Improving product and service for our customers by using advanced analytics and standing up big data analytical tools.🎯
 
 Also, I had experience in web application development as a full stack developer.💻
 
