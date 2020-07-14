@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **balavenkatesh3322/balavenkatesh3322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Bala Venkatesh](https://media.giphy.com/media/cIhjYPQoZLQZbSVTkV/giphy.gif)
+
+Hi, I'm Bala Venkatesh 👨‍💻 I am working at AIBOTS SDN BHD as Data scientist. I have over 4+ years, data scientist and researcher with 2+ years of experience of data science technology and research experience in wide functions including predictive modeling, data preprocessing, feature engineering, machine learning and deep learning. Improving product and service for our customers by using advanced analytics and standing up big data analytical tools. 
+
+Also, I had experience in web application development as a full stack developer.💻
+
