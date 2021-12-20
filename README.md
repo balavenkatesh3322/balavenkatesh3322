@@ -26,3 +26,4 @@ skills, and the ability to clearly communicate complex and technical
 information💻 
 Also, I am doing research works based on client inputs and I will give end solutions to build ML products.
 
+* ASPIRE TO INSPIRE BEFORE I EXPIRE *
