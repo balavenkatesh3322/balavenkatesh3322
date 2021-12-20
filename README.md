@@ -17,9 +17,12 @@ Here are some ideas to get you started:
 
 ![Hey there, I'm Bala Venkatesh. I'm a data scientist. Check out my work](https://github.com/balavenkatesh3322/balavenkatesh3322/raw/master/balavenkatesh.gif)
 
-Hi, I'm Bala Venkatesh 👨‍💻 I worked in different
+Hi, I'm Bala Venkatesh 👨‍💻 
+I worked in different
 companies in various technologies like deep learning, machine learning,
-computer vision, and web application🎯 Coming with solid programming
+computer vision, and web application🎯 
+Coming with solid programming
 skills, and the ability to clearly communicate complex and technical
-information💻 Also, I am doing research works based on client inputs and I will give end solutions to build ML products.
+information💻 
+Also, I am doing research works based on client inputs and I will give end solutions to build ML products.
 
