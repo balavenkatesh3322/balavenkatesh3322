@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 Hi, I'm Bala Venkatesh 👨‍💻 
 I worked in different
-companies in various technologies like deep learning, machine learning,
-computer vision, and web application🎯 
+companies in various technologies like deep learning, Gen AI Application,
+computer vision, and web application development🎯 
 Coming with solid programming
 skills, and the ability to clearly communicate complex and technical
 information💻 
